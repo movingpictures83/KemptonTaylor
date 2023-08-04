@@ -1,0 +1,2 @@
+Prefix plugins/KemptonTaylor/example/
+Plugin KemptonTaylor inputfile table.qza outputfile alpha_diversity.qza
